@@ -32,7 +32,6 @@ a{
     left: 470px;
     width: 786px;
 }
-
 input[type="search"] {
         padding: 16px 53px;
         width: 778px;
@@ -68,10 +67,10 @@ input[type="search"] {
     position: relative;
 }
 .logo1 img{
-    width:55px;
+    width:50px;
     position: absolute;
     left:660px;
-    top:95px;
+    top:87px;
     cursor: pointer;
 }
 .logo1 h5{
@@ -96,11 +95,11 @@ cursor: pointer;
     cursor: pointer;
 }
 .logo3 img{
-width: 34px;
-position: absolute;
-left:884px;
-top:87px;
-cursor: pointer;
+    width: 100px;
+    position: absolute;
+    left: 850px;
+    top: 77px;
+    cursor: pointer;
 }
 .logo3 h5{
     position:absolute;
@@ -109,7 +108,6 @@ cursor: pointer;
     top: 110px;
     cursor: pointer;
 }
-
 .logo4 img{
 width: 33px;
 position:absolute;
