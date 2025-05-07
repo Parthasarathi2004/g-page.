@@ -1,0 +1,142 @@
+.container1{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    height: auto;
+    max-width: 1400px;
+}
+nav ul li{
+display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    padding:10px ;
+}
+.container2{
+    align-content: center;
+    float: right;
+}
+.logo img {
+    left: 448px;
+    position: relative;
+    width: 750px;
+    height: 350px;
+    top: 58px;
+ }
+.search-box{
+    position: relative;
+    top:10px;
+    left: 470px;
+    width: 786px;
+}
+
+input[type="search"] {
+        padding: 16px 53px;
+        width: 778px;
+        border-radius: 40px;
+        box-shadow: 0px 0px 5px #979696;
+        border-style: none;
+        font-size: 15px;
+      }
+.icon3{
+        position:absolute;
+        top: 14px;
+        left: 22px;
+        font-size: 15px;
+        cursor: pointer;
+      }      
+.icon4{
+        position:absolute;
+        top: 12px;
+        left: 704px;
+        font-size: 16px;
+        color: rgb(66 66 68);
+        cursor: pointer;
+      }      
+.icon5{
+    position:absolute;
+    top: 12px;
+    left: 739px;
+    font-size: 16px;
+    color: rgb(66 66 68);
+    cursor: pointer;
+}      
+.images{
+    position: relative;
+}
+.logo1 img{
+    width:55px;
+    position: absolute;
+    left:660px;
+    top:95px;
+    cursor: pointer;
+}
+.logo1 h5{
+    position: absolute;
+    width:px;
+    left: 665px;
+    top: 110px;
+    cursor: pointer;
+}
+.logo2 img{
+width: 50px;
+position:absolute;
+left:779px;
+top:87px;
+cursor: pointer;
+}
+.logo2 h5{
+    position: absolute;
+    width:45px;
+    left:780px;
+    top: 110px;
+    cursor: pointer;
+}
+.logo3 img{
+width: 34px;
+position: absolute;
+left:884px;
+top:87px;
+cursor: pointer;
+}
+.logo3 h5{
+    position:absolute;
+    width: 45px;
+    left: 880px;
+    top: 110px;
+    cursor: pointer;
+}
+
+.logo4 img{
+width: 33px;
+position:absolute;
+left:978px;
+top:87px;
+cursor: pointer;
+}
+.logo4 h5{
+    position:absolute;
+    width: 76px;
+    left: 970px;
+    top: 110px;
+    cursor: pointer;
+}
+.logo1 h5:hover{
+background-color:rgba(57, 57, 60, 0.484);
+color: rgb(46, 16, 168);
+}
+.logo2 h5:hover{
+    background-color:rgba(57, 57, 60, 0.484);
+color: rgb(46, 16, 168);
+}
+.logo3 h5:hover{
+    background-color:rgba(57, 57, 60, 0.484);
+color: rgb(46, 16, 168);
+}
+.logo4 h5:hover{
+    background-color:rgba(57, 57, 60, 0.484);
+    color: rgb(46, 16, 168);
+}    
